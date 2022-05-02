@@ -16,5 +16,6 @@ The Block class's scope is to encode all the data to create a new hash.
 #### Pychain
 The Pychain class's scope is to create new blocks and check if the blockchain is valid or not.
 
+###### -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The last part of the code generates an user interface via streamlit functions.
